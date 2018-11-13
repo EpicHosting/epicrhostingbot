@@ -1,1 +1,1 @@
-# epicbot
+# epicrhostingbot
